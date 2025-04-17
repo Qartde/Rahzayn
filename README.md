@@ -2142,11 +2142,11 @@
 <p align="center"><img src="https://files.catbox.moe/aktbgo.jpg" width="500"height="500" />
 
 <p align="center">
-<a href="https://github.com/Qartde/followers"><img title="Followers" src="https://img.shields.io/github/followers/RAHMANI-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Qartde/RAHMANI-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Qartde/RAHMANI-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Qartde/RAHMANI-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Qartde/RAHMANI-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Qartde/RAHMANI-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Qartde/RAHMANI-XMD?style=flat-square&color=blue"></a>
-<a href="https://github.com/Qartde/RAHMANI-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/deshallos1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Rahzayn?color=blue&style=flat-square"></a>
+<a href="https://github.com/deshallos1/Rahzayn/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Qartde/Rahzayn?color=blue&style=flat-square"></a>
+<a href="https://github.com/Qartde/RAHMANI-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/deshallos1/Rahzayn?color=blue&style=flat-square"></a>
+<a href="https://github.com/deshallos1/Rahzayn/"><img title="Size" src="https://img.shields.io/github/repo-size/Qartde/Rahzayn?style=flat-square&color=blue"></a>
+<a href="https://github.com/deshallos1/Rahzayn/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -2157,7 +2157,7 @@
 
 <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=blue&style=for-the-badge&logo=blue" width="180" height="43.45"/></a></p>
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Qartde/RAHMANI-XMD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/deshallos1/Rahzayn"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
 
 <a href="https://wa.me/+255693629079-INFO"><img title="CONTACT-Elon" src="https://img.shields.io/badge/CONTACT-Rahmani-Md?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
 
@@ -2176,7 +2176,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Qartde&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Repo Stats" width="800">
 
   <!-- Repo Activity Stats Screen -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Qartde&repo=RAHMANI-XMD" alt="Pinned GitHub Repo Activity" width="800">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deshallos1&repo=Rahzayn" alt="Pinned GitHub Repo Activity" width="800">
 
 <p> <b>Connect With me:</b></p>
 <p>
