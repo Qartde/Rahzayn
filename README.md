@@ -2142,11 +2142,11 @@
 <p align="center"><img src="https://files.catbox.moe/aktbgo.jpg" width="500"height="500" />
 
 <p align="center">
-<a href="https://github.com/NjabuloJ/followers"><img title="Followers" src="https://img.shields.io/github/followers/NjabuloJ?color=blue&style=flat-square"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NjabuloJ/Njabulo-Jb?color=blue&style=flat-square"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NjabuloJ/Njabulo-Jb?color=blue&style=flat-square"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/"><img title="Size" src="https://img.shields.io/github/repo-size/NjabuloJ/Njabulo-Jb?style=flat-square&color=blue"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Qartde/followers"><img title="Followers" src="https://img.shields.io/github/followers/RAHMANI-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Qartde/RAHMANI-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Qartde/RAHMANI-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Qartde/RAHMANI-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Qartde/RAHMANI-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Qartde/RAHMANI-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Qartde/RAHMANI-XMD?style=flat-square&color=blue"></a>
+<a href="https://github.com/Qartde/RAHMANI-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
