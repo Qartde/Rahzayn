@@ -2137,12 +2137,12 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝗠𝗔𝗗𝗘+𝗕𝗬+𝗡𝗝𝗔𝗕𝗨𝗟𝗢+𝗝𝗕+𝗢𝗙𝗙𝗜𝗖𝗘+𝗕𝗪+𝟮𝟬𝟮𝟱+𝗧𝗔𝗡𝗞𝗦+𝗬𝗢𝗨+𝗦𝗨𝗣𝗣𝗢𝗥𝗧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝗠𝗔𝗗𝗘+𝗕𝗬+𝗥𝗔𝗛𝗠𝗔𝗡𝗜+𝗫𝗠𝗗+𝗤𝗥+𝗧+𝟮𝟬𝟮𝟱+𝗧𝗛𝗔𝗡𝗞𝗦+𝗬𝗢𝗨+𝗦𝗨𝗣𝗣𝗢𝗥𝗧)](https://git.io/typing-svg)
 
-<p align="center"><img src="https://files.catbox.moe/kyesjo.jpg" width="500"height="500" />
+<p align="center"><img src="https://files.catbox.moe/aktbgo.jpg" width="500"height="500" />
 
 <p align="center">
-<a href="https://github.com/NjabuloJ/followers"><img title="Followers" src="https://img.shields.io/github/followers/NjabuloJ?color=blue&style=flat-square"></a>
+<a href="https://github.com/Qartde/followers"><img title="Followers" src="https://img.shields.io/github/followers/Rahmani?color=blue&style=flat-square"></a>
 <a href="https://github.com/NjabuloJ/Njabulo-Jb/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NjabuloJ/Njabulo-Jb?color=blue&style=flat-square"></a>
 <a href="https://github.com/NjabuloJ/Njabulo-Jb/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NjabuloJ/Njabulo-Jb?color=blue&style=flat-square"></a>
 <a href="https://github.com/NjabuloJ/Njabulo-Jb/"><img title="Size" src="https://img.shields.io/github/repo-size/NjabuloJ/Njabulo-Jb?style=flat-square&color=blue"></a>
@@ -2166,24 +2166,24 @@
 <p align="center">
   <img src="https://files.catbox.moe/agpboe.jpg" alt="NJABULO JB Bot" width="250" style="border-radius: 10px; margin: 5px;">
   <img src="https://files.catbox.moe/94nxc3.jpg" alt="Feature Screenshot" width="300" style="border-radius: 10px; margin: 5px;">
-  <img src="https://files.catbox.moe/mm3s53.jpg" alt="User Interaction" width="350" style="border-radius: 10px; margin: 5px;">
+  <img src="https://files.catbox.moe/aktbgo.jpg" alt="User Interaction" width="350" style="border-radius: 10px; margin: 5px;">
 </p>
 
-## 💻 NJABULO JB REPO ACTIVITY
+## 💻 RAHMANI XMD REPO ACTIVITY
 
 <p align="center">
   <!-- GitHub Repo Activity Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NjabuloJ&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Repo Stats" width="800">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qartde&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Repo Stats" width="800">
 
   <!-- Repo Activity Stats Screen -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NjabuloJ&repo=Njabulo-Jb" alt="Pinned GitHub Repo Activity" width="800">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Qartde&repo=Rahmani-xMd" alt="Pinned GitHub Repo Activity" width="800">
 
 <p> <b>Connect With me:</b></p>
 <p>
-<a href="https://wa.me/26777821911"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+<a href="https://wa.me/255693629079"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://www.facebook.com/profile.php?id=100094314013209"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=100094314013209"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/NjabuloJ/Njabulo-jb"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="Njabulo "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=100094314013209"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/Qartde/RAHMANI-XMD"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="Rahmani "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
 </p>
 
 
