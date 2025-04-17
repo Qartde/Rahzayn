@@ -1,9 +1,9 @@
 {
-  "name":"Njabulo",
+  "name":"Rahmani The one",
   "description":"Best whatsapp bot",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.imgur.com/02GMMaE.jpeg",
-  "repository":"https://github.com/NjabuloJ/Njabulo-Jb",
+  "logo":"https://files.catbox.moe/aktbgo.jpg",
+  "repository":"https://github.com/deshallos1/Rahzayn",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Njabulo-Jb",
+      "value":"Rahmani_Md",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/ckby4d.jpg,https://files.catbox.moe/9a4ved.jpg,https://files.catbox.moe/13oojj.jpg",
+      "value":"https://files.catbox.moe/aktbgo.jpg",
       "required":false
        
      },
@@ -54,7 +54,7 @@
     }
 	,
     "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this is optionnal)",
+    "description": "HRKU-21f94f36-4701-4c14-8c77-e3f0d998fea8",
      "required" :false
     },
   "HEROKU_APP_NAME": {
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Njabulo"
+    "value": "Rahmani"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "26777821911"
+    "value": "255693629079"
   },
     "WARN_COUNT":
   {
@@ -93,16 +93,16 @@
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
-    "value": "yes"
+    "value": "no"
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"2",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "yes",
+    "value": "no",
         "required": false
   }
   },
