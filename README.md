@@ -2137,7 +2137,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝗠𝗔𝗗𝗘+𝗕𝗬+𝗥𝗔𝗛𝗠𝗔𝗡𝗜+𝗫𝗠𝗗+𝟮𝟬𝟮𝟱+𝗧𝗛𝗔𝗡𝗞𝗦+𝗬𝗢𝗨+𝗦𝗨𝗣𝗣𝗢𝗥𝗧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝗠𝗔𝗗𝗘+𝗕𝗬+𝗥𝗔𝗛𝗠𝗔𝗡𝗜+𝗫𝗠𝗗+𝟮𝟬𝟮𝟱+𝗧𝗛𝗔𝗡𝗞𝗦)](https://git.io/typing-svg)
 
 <p align="center"><img src="https://files.catbox.moe/aktbgo.jpg" width="500"height="500" />
 
